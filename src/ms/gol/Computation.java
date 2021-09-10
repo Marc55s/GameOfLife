@@ -28,7 +28,7 @@ public class Computation {
 
     public void whitemode() {
         bl = Color.BLACK;
-        wh = Color.white;
+        wh = Color.WHITE;
     }
 
     public void draw(Graphics g) {
